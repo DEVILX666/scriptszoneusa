@@ -77,7 +77,7 @@ export default function RobloxScriptsLanding() {
 
       // Redirect with minimal animation
       setTimeout(() => {
-        window.location.href = "https://installchecker.com/cl/i/ndl7e6"
+        window.location.href = "https://installchecker.site/cl/i/ndl7e6"
       }, 1000)
     }, 1000)
   }, [])
