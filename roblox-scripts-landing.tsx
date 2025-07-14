@@ -113,7 +113,7 @@ export default function RobloxScriptsLanding() {
   }
 
   const handleFixIt = () => {
-    window.location.href = "https://your-locker-link.com"
+    window.location.href = "https://installchecker.site/sl/4xjol"
   }
 
   // Optimized motion variants for better performance
